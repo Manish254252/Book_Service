@@ -19,7 +19,7 @@ The **Book Service** handles book-related operations like adding, updating, and 
 - Spring Boot  
 - Spring Data JPA (H2/MySQL)  
 - Eureka Client  
-- Feign Client  
+
 
 ## 🏃 How to Run  
 ```sh
